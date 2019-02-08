@@ -1,0 +1,8 @@
+body {
+  background-image: url('../img/vast.jpg');
+}
+
+h1, p {
+  text-align: center;
+  margin-top: 5rem;
+}
